@@ -1,14 +1,30 @@
 # MiniJava Compiler
-This is a real compiler that can translate the Minijava language into x86 Assembly language.
-The compiler is written in Java. It is designed to run on Windows platform.
+
+MiniJava is a teaching language to help students understanding the theory of compiler.
+The introduction of MiniJava can be found in the textbook
+[Modern Compiler Implementation in Java](https://www.cs.princeton.edu/~appel/modern/java/).
+
+In the project, the MiniJava compiler is written in Java.
+Different from other MiniJava projects, this one is a practical implementation.
+It is a real compiler that can translate the MiniJava language into x86 Assembly language.
+You can write some actual ".exe" applications using the compiler.
+
+The compiler supports a few system calls, that you can finish some interesting things.
+I give 2 examples to show the powerful of the compiler.
+One example shows how to do a mathematical computation.
+Another shows how to use it to write a simple video game, using the idea of Object-Oriented design.
+From the project, you can get hand-on experiences about how to design a compiler and think from the level of operating systems.
+You can also extend its runtime library to make it more powerful.
+The compiler is designed to run on Windows platform.
 It should be able to run on windows XP/7/8/10.
 To make it run, all you need to have is a java runtime environment.
 
-The formal grammar definition of Minijava can be found at 
+
+The formal grammar definition of MiniJava can be found at 
 [the jtb file](eMiniJava/src/mini/minijava.jtb).
 
 
-There are 3 folders in the project.
+There are 3 folders in the project, the files in these folders are introduced as follows.
 ### Folder "eMiniJava"
 The source code of the parser is located in the folder "eMiniJava".
 The main function of the parser is in the folder named "eMiniJava/src/mini/test".
