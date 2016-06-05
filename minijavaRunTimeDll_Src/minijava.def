@@ -1,0 +1,16 @@
+LIBRARY minijava
+
+EXPORTS
+minij_runtime_system_out_println;
+minij_runtime_minijava_print;
+minij_runtime_minijava_scanf;
+minij_runtime_exit;
+minij_runtime_alloc;
+minij_runtime_minijava_window;
+minij_runtime_minijava_wait;
+minij_runtime_minijava_getkeystate;
+minij_runtime_minijava_bitblt;
+minij_runtime_minijava_color;
+minij_runtime_minijava_present;
+minij_runtime_minijava_srand;
+minij_runtime_minijava_rand;

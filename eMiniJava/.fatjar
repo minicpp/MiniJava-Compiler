@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri May 09 09:01:42 CST 2008
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=MiniJava.jar
+manifest.mergeall=true
+manifest.mainclass=mini.test.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
