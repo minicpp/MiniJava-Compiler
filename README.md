@@ -4,7 +4,7 @@ It is written by Java. The compiler is designed to run onn Windows platform.
 It should be able to run on windows XP/7/8/10.
 To make it run, all you need to have is a java runtime environment.
 
-The formal grammar definition of Minijava can be found at the jtb file 
+The formal grammar definition of Minijava can be found at 
 [the jtb file](eMiniJava/src/mini/minijava.jtb).
 
 
