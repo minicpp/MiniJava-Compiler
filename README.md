@@ -23,6 +23,8 @@ To make it run, all you need to have is a java runtime environment.
 The formal grammar definition of MiniJava can be found at 
 [the jtb file](eMiniJava/src/mini/minijava.jtb).
 
+A video tutorial for an introduction of the MiniJava Compiler is here:
+[![MiniJava](https://img.youtube.com/vi/N1sFl5zKNCE/0.jpg)](https://youtu.be/N1sFl5zKNCE)
 
 There are 3 folders in the project, the files in these folders are introduced as follows.
 ### Folder "eMiniJava"
